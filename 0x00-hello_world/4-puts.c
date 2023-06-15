@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 
-/*
- * main - creation of my functions
- * return: Always return 0 (Success)
+/**
+ * main-prints the phrase "programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
  */
 
 int main(void)
