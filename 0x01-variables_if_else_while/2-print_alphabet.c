@@ -11,7 +11,7 @@ int main(void)
 
 	for (alph = 'a'; alph <= 'z'; alph++)
 	{
-		printf("%c\n", alph);
+		printf("%c", alph);
 	}
 	return (0);
 }
